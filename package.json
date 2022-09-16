@@ -13,7 +13,7 @@
   "devDependencies": {
     "archiver": "^1.0.0",
     "assert-plus": "^1.0.0",
-    "bootstrap": "3.3.6",
+    "bootstrap": "3.4.1",
     "broken-link-checker": "0.7.1",
     "browser-sync": "^2.9.3",
     "canonical-path": "0.0.2",
