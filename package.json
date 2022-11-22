@@ -15,7 +15,7 @@
     "assert-plus": "^1.0.0",
     "bootstrap": "3.3.6",
     "broken-link-checker": "0.7.1",
-    "browser-sync": "^2.9.3",
+    "browser-sync": "^2.27.10",
     "canonical-path": "0.0.2",
     "cheerio": "^0.20.0",
     "codelyzer": "~2.0.0",
